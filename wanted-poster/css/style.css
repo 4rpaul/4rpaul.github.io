@@ -88,6 +88,13 @@ h3 {
     text-align:center;
     font-weight: normal;
 }
+span > h4 {
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-left: 8pxrem;
+    padding-right: 8pxrem;
+}
+
 h4 {
     
     text-transform: uppercase;
