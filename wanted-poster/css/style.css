@@ -161,11 +161,8 @@ figcaption {
 /* Footer */
 
 footer {
-    padding-top: 16pxrem;
-    padding-bottom: 16pxrem;
-    padding-left: 16pxrem;
-    padding-right: 16pxrem;
+   padding: 1rem;
     border-top-style: solid;
-    border-top-width: 32px;
+    border-top-width: 2rem;
     border-top-color: #333;   
 }
