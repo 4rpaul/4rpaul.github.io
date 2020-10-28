@@ -166,6 +166,6 @@ footer {
     padding-left: 16pxrem;
     padding-right: 16pxrem;
     border-top-style: solid;
-    border-top-width: 32pxrem;
+    border-top-width: 32px;
     border-top-color: #333;   
 }
