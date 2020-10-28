@@ -130,14 +130,14 @@ section {
  margin-top: 8pxrem;
 }
 p {
-    margin-bottom: 16pxrem;
-    margin-top: 16pxrem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
     margin-left: auto;
     margin-right: auto;
     padding-top: 0;
     padding-bottom: 0;
-    padding-left: 16pxrem;
-    padding-right: 16pxrem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     width: 90%;
     text-align: left;
 }
