@@ -103,11 +103,13 @@ h4 {
     font-weight: normal;
    
 }
+
 h4 span {
     padding-bottom: 0;
     padding-top: 0;
-    padding-left: 8pxrem;
-    padding-right: 8pxrem;}
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
 
 h5 {
 
@@ -160,7 +162,6 @@ figcaption {
 
 footer {
     width: 32pxrem;
-    border-style: solid;
     color: #333;
     
 }
