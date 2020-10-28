@@ -165,9 +165,6 @@ footer {
     padding-bottom: 16pxrem;
     padding-left: 16pxrem;
     padding-right: 16pxrem;
-    border-top: 32pxrem, solid;
-    color: #333
-    
-    
+    border-top: 32px solid #333;  
     
 }
