@@ -34,7 +34,7 @@ body {
 }
 main {
     background-color:#ddd;
-    background-image:url(images/wrinkled-white-paper-background.jpg);
+    background-image:url(../images/wrinkled-white-paper-background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border:1px solid #333;
@@ -96,8 +96,7 @@ h4 {
     margin: 0;
     letter-spacing: .25
         rem;
-    color: darkred;
-    text-shadow:.09375rem .09375rem .09375rem #000;
+    color: black;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     padding-bottom: 1.125rem;
