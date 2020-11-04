@@ -167,11 +167,8 @@ ul {
 }
 
 ol {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 0;
-    margin-right: 0; 
-    list-style-type: lower-alpha;
+margin: 1rem, 0;
+list-style-type: lower-alpha;
     
 }
 
