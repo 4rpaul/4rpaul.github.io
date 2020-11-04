@@ -79,14 +79,14 @@ header, footer {
 
 /* Imported Typfaces */
 @font-face {
-font-family:josefinslab;
-    src: url(../fonts/josefinslab-regular.tff);
+font-family:'josefinslab';
+    src: url(../fonts/josefinslab-regular.tff) format('truetype');
     font-weight:normal;
     font-style:normal;
 }
 @font-face {
-    font-family:monsterrat
-        src: url(../fonts/monsterrat-regular.tff);
+    font-family:'monsterrat'
+        src: url(../fonts/monsterrat-regular.tff) format('truetype');
     font-weight:normal;
     font-style:normal;
 }
@@ -95,14 +95,14 @@ font-family:josefinslab;
 
 /* Typography Styles */
 html {
-    font-family: monsterrat, sans-serif;
+    font-family: 'monsterrat', sans-serif;
     font-weight:normal;
     font-style:normal;    
     
 }
 h1 {
    letter-spacing: .125rem;
-    font-family: josefinslab, serif;
+    font-family: 'josefinslab', serif;
      font-weight:normal;
     font-style:normal;
     font-size: 3.75rem;
@@ -112,7 +112,7 @@ h1 {
 
 h2 {
    letter-spacing: .125rem;
-    font-family: josefinslab, serif;
+    font-family: 'josefinslab', serif;
      font-weight:normal;
     font-style:normal;
     font-size: 1.5rem;
