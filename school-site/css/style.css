@@ -95,8 +95,7 @@ font-family:'josefinslab';
 
 /* Typography Styles */
 html {
-    font-family: 'monsterrat', sans-serif;
-      
+    font-family: 'monsterrat', sans-serif;  
     
 }
 h1 {
@@ -172,7 +171,7 @@ ol {
     margin-bottom: 1rem;
     margin-left: 0;
     margin-right: 0; 
-    list-style-type: lowercase;
+    list-style-type: lower-alpha;
     
 }
 
