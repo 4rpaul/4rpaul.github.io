@@ -80,13 +80,13 @@ header, footer {
 /* Imported Typfaces */
 @font-face {
 font-family:josefinslab;
-    src: url(../fonts/josefinslab-regular.tff) format('truetype');
+    src: url(../fonts/josefinslab-regular.tff);
     font-weight:normal;
     font-style:normal;
 }
 @font-face {
     font-family:monsterrat
-        src: url(../fonts/monsterrat-regular.tff) format('truetype');
+        src: url(../fonts/monsterrat-regular.tff);
     font-weight:normal;
     font-style:normal;
 }
