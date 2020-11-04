@@ -78,41 +78,140 @@ header, footer {
 
 
 /* Imported Typfaces */
-
-
+@font-face {
+font-family:josefinslab;
+    src: url(../fonts/josefinslab-regular) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face {
+    font-family:monsterrat
+        src: url(../fonts/monsterrat-regular) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
 
 
 
 /* Typography Styles */
+html {
+    font-family: monsterrat, sans-serif;
+    font-weight:normal;
+    font-style:normal;    
+    
+}
+h1 {
+   letter-spacing: .125rem;
+    font-family: josefinslab, serif;
+     font-weight:normal;
+    font-style:normal;
+    font-size: 3.75rem;
+    margin: 1.125rem;
+    text-align: center;
+}
 
+h2 {
+   letter-spacing: .125rem;
+    font-family: josefinslab, serif;
+     font-weight:normal;
+    font-style:normal;
+    font-size: 1.5rem;
+}
 
-
-
-
+h2 + p {
+    text-indent: 1.5rem;
+     font-size: .75rem;
+    letter-spacing: .03125rem;
+    word-spacing: .125rem;
+}
+p {
+    font-size: .75rem;
+    letter-spacing: .03125rem;
+    word-spacing: .125rem;
+    
+}
+li {
+     font-size: .75rem;
+    letter-spacing: .03125rem;
+    word-spacing: .125rem;
+}
+figcaption {
+   font-size: .75rem;
+    margin-bottom: 2rem;
+}
 
 /* Link Styling */
 
-
-
-
+a {
+ outline: none;
+    
+}
+a:link
+a:visited {
+    color: #33658A
+    
+}
+a:focus,
+a:hover {
+   border-bottom: none; 
+}
 
 
 /* List Styling */
 
+ul {
+  margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: square;
+    
+}
 
+ol {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0; 
+    list-style-type: lowercase;
+    
+}
 
-
-
-
+.long-list a:hover {
+  transform: uppercase;
+}
 /* Navigation Menu */
-
-
-
-
+nav {
+   padding-left: 0;
+    margin-top: .25rem;
+}
+nav a {
+  border-bottom: none;
+    display: inline-block;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: .75rem;
+    margin-bottom: 1.5rem;
+    border: solid, .0625rem, #33658A;
+    
+}
+nav a:focus
+nav a:hover {
+   color: #FFF;
+    background-color: #33658A;
+}
+nav a:active {
+   color: #FFF;
+    background-color: #000;
+    
+}
 
 
 /* Footer Styles */
-
+footer {
+   text-align: center; 
+}
 
 
 
