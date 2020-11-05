@@ -81,8 +81,7 @@ header, footer {
 @font-face {
 font-family:'josefinslab';
     src: url(../fonts/josefinslab-regular.tff) format('truetype');
-    font-weight:normal;
-    font-style:normal;
+    
 }
 @font-face {
     font-family:'monsterrat'
@@ -95,7 +94,7 @@ font-family:'josefinslab';
 
 /* Typography Styles */
 html {
-    font-family: monsterrat, sans-serif;  
+    font-family: "monsterrat", sans-serif;  
     
 }
 h1 {
