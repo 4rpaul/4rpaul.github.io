@@ -95,12 +95,12 @@ header, footer {
 
 /* Typography Styles */
 html {
-    font-family: 'Monsterrat', Arial, sans-serif;  
+    font-family: 'Monsterrat', sans-serif;  
     
 }
 h1 {
    letter-spacing: .125rem;
-    font-family: 'Josefinslab', Arial, serif;
+    font-family: 'Josefinslab', serif;
      font-weight:normal;
     font-style:normal;
     font-size: 3.75rem;
@@ -110,7 +110,7 @@ h1 {
 
 h2 {
    letter-spacing: .125rem;
-    font-family: 'Josefinslab', Arial, serif;
+    font-family: 'Josefinslab', serif;
      font-weight:normal;
     font-style:normal;
     font-size: 1.5rem;
