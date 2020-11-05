@@ -79,23 +79,23 @@ header, footer {
 
 /* Imported Typfaces */
 @font-face {
-font-family:Josefinslab;
+    font-family:Josefinslab;
     src: url(../fonts/josefinslab-regular.tff);
-    font-weight:normal;
     font-style:normal;
+    font-weight:normal;
 }
 @font-face {
     font-family:Monsterrat;
-        src: url(../fonts/monsterrat-regular.tff);
-    font-weight:normal;
+    src: url(../fonts/monsterrat-regular.tff);
     font-style:normal;
+    font-weight:normal;
 }
 
 
 
 /* Typography Styles */
 html {
-    font-family: Monsterrat, Arial, sans-serif;  
+    font-family: 'Monsterrat', sans-serif;  
     
 }
 h1 {
