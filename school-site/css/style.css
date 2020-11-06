@@ -80,13 +80,13 @@ header, footer {
 /* Imported Typfaces */
 @font-face {
     font-family:Josefinslab;
-    src: url(../fonts/josefinslab-regular.tff);
+    src: url(../fonts/josefinslab-regular.ttf);
     font-style:normal;
     font-weight:normal;
 }
 @font-face {
-    font-family:Monsterrat;
-    src: url(../fonts/monsterrat-regular.tff);
+    font-family:Montserrat;
+    src: url(../fonts/montserrat-regular.ttf);
     font-style:normal;
     font-weight:normal;
 }
@@ -95,7 +95,7 @@ header, footer {
 
 /* Typography Styles */
 html {
-    font-family: 'Monsterrat', Arial, sans-serif;  
+    font-family: 'Montserrat', Arial, sans-serif;  
     
 }
 h1 {
@@ -181,14 +181,14 @@ nav {
     margin-top: .25rem;
 }
 nav a {
-  border-bottom: none;
+    text-decoration: none;
     display: inline-block;
     width: 100%;
     line-height: 3;
     text-align: center;
     font-size: 1.125rem;
     margin-bottom: 1.5rem;
-    border: solid, .0625rem, #33658A;
+    border: .0625rem, solid, #33658A;
     
 }
 nav a:focus
