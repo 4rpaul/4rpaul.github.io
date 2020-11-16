@@ -96,8 +96,10 @@ span {
     padding-left: .5rem;
     padding-right: .5rem;
     color:floralwhite;
-    background-color: blue;
-    font-size:4rem 
+    background-color:crimson;
+    font-size:4rem;
+    text-transform: uppercase;
+        
 }
 nav {
     float:center;
@@ -107,7 +109,7 @@ nav {
       width:20rem;
       border:.0625rem solid #333;
       background-color:#ffffff;
-    font-size: 3rem
+    font-size: 2rem
       
 }    
     nav a:hover {
