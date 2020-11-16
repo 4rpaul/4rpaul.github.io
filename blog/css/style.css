@@ -96,6 +96,7 @@ span {
     padding-left: .5rem;
     padding-right: .5rem;
     color: cornflowerblue;
+    transform-style: preserve-3d
 }
 nav {
     float:center;
@@ -104,8 +105,8 @@ nav {
       flex-direction: column;
       width:14rem;
       border:.0625rem solid #333;
-      background-color:floralwhite;
-      position:fixed;
+      background-color:#ffffff;
+      
 }    
     nav a:hover {
   color:#FFF;
