@@ -95,8 +95,9 @@ span {
     padding-top: 0;
     padding-left: .5rem;
     padding-right: .5rem;
-    color: cornflowerblue;
-    transform-style: preserve-3d
+    color: floralwhite;
+    background-color: blue;
+    font-size:4rem 
 }
 nav {
     float:center;
