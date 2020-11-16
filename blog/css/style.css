@@ -95,7 +95,7 @@ span {
     padding-top: 0;
     padding-left: .5rem;
     padding-right: .5rem;
-    color: floralwhite;
+    color:floralwhite;
     background-color: blue;
     font-size:4rem 
 }
@@ -103,10 +103,11 @@ nav {
     float:center;
       display: flex;
       flex-wrap:wrap;
-      flex-direction: column;
-      width:14rem;
+      flex-direction:row;
+      width:20rem;
       border:.0625rem solid #333;
       background-color:#ffffff;
+    font-size: 3rem
       
 }    
     nav a:hover {
