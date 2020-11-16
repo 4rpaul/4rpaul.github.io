@@ -96,9 +96,11 @@ span {
     padding-left: .5rem;
     padding-right: .5rem;
     color:floralwhite;
-    background-color:crimson;
+    background-color:brown;
     font-size:4rem;
     text-transform: uppercase;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
         
 }
 nav {
