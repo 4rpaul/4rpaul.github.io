@@ -47,5 +47,91 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+@font-face {
+    font-family:sans-serif;
+    src: url(../fonts/sans-serif.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+@font-face {
+    font-family:serif;
+    src: url(../fonts/serif.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
 
+
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: #FFFFFF;
+}
+    body {
+    max-width:1200px;
+    margin:0 auto;
+    padding:1rem 2rem;    
+    color:#111;
+    font-family: 'Roboto Condensed', sans-serif;
+       
+} 
+
+header {
+    border-bottom: .0625rem solid #333;
+    margin-bottom:4rem;
+    padding-bottom:2rem;
+}
+
+h1 {
+    font-size: 6rem;
+    font-weight:100;
+    color: #333;
+    font-family: Lato, sans-serif;
+    text-shadow:2px 2px 3px #333;      
+    margin:0;
+}
+span {
+     padding-bottom: 0;
+    padding-top: 0;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: cornflowerblue;
+}
+nav {
+    float:center;
+      display: flex;
+      flex-wrap:wrap;
+      flex-direction: column;
+      width:14rem;
+      border:.0625rem solid #333;
+      background-color:floralwhite;
+      position:fixed;
+}    
+    nav a:hover {
+  color:#FFF;
+    background-color:#333;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
