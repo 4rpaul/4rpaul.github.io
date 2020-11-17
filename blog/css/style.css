@@ -94,16 +94,13 @@ h1 {
     margin:0;
 }
 highlight {
-     {border-color:brown;
+     border-color:brown;
 background-color:brown;
 color: white;
 border-radius: 1.25rem .75rem;
 padding: .5rem;
 font-weight: bold;
-
-    
-    
-    
+         
 }
 nav {
     float:center;
