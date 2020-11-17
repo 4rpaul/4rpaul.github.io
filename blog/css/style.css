@@ -115,7 +115,7 @@ nav {
     font-size: 2rem;
     word-spacing: normal;
     text-align: center;
-     border-bottom:  
+     border-bottom: .0625rem solid #333; 
 }    
     nav a hover {
   color:#FFF;
