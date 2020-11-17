@@ -97,7 +97,7 @@ h1 {
 
 
 
-highlight {
+span {
      border-color:brown;
 background-color:brown;
 color: white;
@@ -111,11 +111,11 @@ nav {
       flex-wrap:nowrap;
       flex-direction:row;
       width:20rem;
-      border:.0625rem solid #333;
       background-color:#ffffff;
     font-size: 2rem;
     word-spacing: normal;
-      
+    text-align: center;
+     border-bottom:  
 }    
     nav a hover {
   color:#FFF;
