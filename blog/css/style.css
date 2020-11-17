@@ -103,9 +103,8 @@ font-weight: bold;
          
 }
 nav {
-    float:center;
-      display: flex;
-      flex-wrap:wrap;
+      display:table-row;
+      flex-wrap:nowrap;
       flex-direction:row;
       width:20rem;
       border:.0625rem solid #333;
@@ -113,7 +112,7 @@ nav {
     font-size: 2rem
       
 }    
-    nav a:hover {
+    nav a hover {
   color:#FFF;
     background-color:#333;
 }
