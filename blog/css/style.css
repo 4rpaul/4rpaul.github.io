@@ -76,13 +76,14 @@ html {
        
 } 
 
-header {
-    border-bottom: .0625rem solid #333;
-    margin-bottom:4rem;
-    padding-bottom:2rem;
-    transform: rotate(450deg) 
-    
+header {border-color:brown;
+background-color:brown;
+color: white;
+border-radius: 1.25rem .75rem;
+padding: .5rem;
+font-weight: bold;
 }
+
 
 h1 {
     font-size: 4rem;
