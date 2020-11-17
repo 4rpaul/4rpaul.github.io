@@ -109,7 +109,8 @@ nav {
       width:20rem;
       border:.0625rem solid #333;
       background-color:#ffffff;
-    font-size: 2rem
+    font-size: 2rem;
+    word-spacing: normal;
       
 }    
     nav a hover {
