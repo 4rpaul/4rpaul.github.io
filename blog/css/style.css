@@ -93,6 +93,10 @@ h1 {
     text-shadow:2px 2px 3px #333;      
     margin:0;
 }
+
+
+
+
 highlight {
      border-color:brown;
 background-color:brown;
@@ -103,7 +107,7 @@ font-weight: bold;
          
 }
 nav {
-      display:table-row;
+      display:flex;
       flex-wrap:nowrap;
       flex-direction:row;
       width:20rem;
