@@ -81,6 +81,7 @@ header {
 border-bottom: .0625rem solid #333;
     margin-bottom:4rem;
     padding-bottom:2rem;
+    word-spacing: normal;
     
 }
 
@@ -104,24 +105,25 @@ color: white;
 border-radius: 1.25rem .75rem;
 padding: .5rem;
 font-weight: bold;
+    text-transform: uppercase;
+    
          
 }
 nav {
-      display:flex;
-      flex-wrap:nowrap;
-      flex-direction:row;
-      width:20rem;
-      background-color:#ffffff;
-    font-size: 2rem;
-    word-spacing: normal;
-    text-align: center;
-     border-bottom: .0625rem solid #333; 
+      padding: 0;
+    margin-top: .25rem;
 }    
-    nav a hover {
-  color:#FFF;
-    background-color:#333;
-}
 
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
+    border: .0625rem, solid, #33658A;
+}
     
     
     
