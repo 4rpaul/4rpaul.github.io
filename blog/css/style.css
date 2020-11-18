@@ -135,9 +135,6 @@ a [href^="blog"] {
 
 
 
-main {
-    overflow:auto;
-    min-width:45rem;
 }  
 .main-section {
    display: flex; 
