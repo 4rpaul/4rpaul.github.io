@@ -126,8 +126,21 @@ nav a {
     word-spacing: 6rem;
     display: inline-block;
 }
+
+a [href^="blog"] {
+    text-decoration: line-through;
     
+}
+
+
+
+main {
+    overflow:auto;
+    min-width:45rem;
+}  
+.main-section {
     
+} 
     
     
     
