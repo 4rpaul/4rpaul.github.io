@@ -143,12 +143,10 @@ a [href^="blog"] {
     width:50%;
 } 
     
-article {
-    float: right;
-    display: flex;
-}  
+  
 .article-image {
     float: left;
+    
 } 
 
 p {
@@ -163,17 +161,6 @@ main {
 }
 
 
-
-
-
-
-
-
-    
-    
-  x-card {
-  width: 100%;
-}
 
 
 }  
