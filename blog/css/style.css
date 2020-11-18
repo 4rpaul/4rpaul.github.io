@@ -169,8 +169,14 @@ width: 25%;
     float: 25%
     
 }   
+footer {
+ text-align: right;
     
+}   
+.copyright {
+    text-align: left;
     
+}   
     
     
     
