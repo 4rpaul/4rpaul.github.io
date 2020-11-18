@@ -139,8 +139,6 @@ a [href^="blog"] {
 .main-section {
    display: flex; 
     float: left;
-    min-width: 22.5rem;
-    width:50%;
 } 
     
   
