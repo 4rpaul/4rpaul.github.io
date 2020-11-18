@@ -175,18 +175,7 @@ main {
   width: 100%;
 }
 
-x-card:nth-child(1), x-card:nth-child(2) {
-  width: 30%;
-  float: right;
-  padding: 2rem;
-}
 
-x-card:nth-child(3) {
-  width: 30%;
-  float: right;
-  height: 100%;
-  overflow: auto;
-  padding: 2rem;
 }  
 aside {
     display: flex;
