@@ -138,9 +138,12 @@ a [href^="blog"] {
 }  
 .main-section {
    display: flex; 
-    float: left;
+
 } 
+article {
+    width: 75%;
     
+}   
   
 .article-image {
     float: left;
@@ -163,7 +166,7 @@ main {
 
 }  
 aside {
-    display: flex;
+width: 25%
     
 }   
     
