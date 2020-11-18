@@ -112,7 +112,8 @@ nav {
     margin-top: .25rem;
     border-bottom: solid;
     border-top: solid;
-    flex: auto;
+    display: flex;
+    
     
 
 } 
