@@ -140,11 +140,35 @@ main {
     min-width:45rem;
 }  
 .main-section {
-    
+   display: flex; 
+    float: left;
+    min-width: 22.5rem;
+    width:50%;
 } 
     
-    
-    
+article {
+    float: right;
+    display: flex;
+}  
+.article-image {
+    float: left;
+} 
+
+p {
+     font-size: .75rem;
+    letter-spacing: .03125rem;
+    word-spacing: .125rem;
+}
+
+
+
+
+
+
+
+
+
+
     
     
   x-card {
@@ -164,7 +188,10 @@ x-card:nth-child(3) {
   overflow: auto;
   padding: 2rem;
 }  
+aside {
+    display: flex;
     
+}   
     
     
     
